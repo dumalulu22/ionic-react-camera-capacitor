@@ -1,0 +1,21 @@
+div.fab {
+  border: 1px solid rgba(255, 255, 255, 0.163);
+  box-shadow: 0 10px 15px rgb(100, 100, 100);
+  height: auto;
+  width: auto;
+  position: absolute;
+  bottom: 75px;
+  right: 20px;
+  border-radius: 10px;
+  background: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+a {
+  color: black;
+  text-decoration: none;
+  font-weight: 700;
+  height: 100%;
+  padding: 10px;
+}

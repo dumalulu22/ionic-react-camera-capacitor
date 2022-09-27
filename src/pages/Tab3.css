@@ -1,0 +1,7 @@
+ion-content {
+  /* --ion-background-color: #white; */
+  --background: rgb(55, 55, 109);
+  /* border: 2px solid; */
+  margin: 20px;
+  padding: 20px;
+}
